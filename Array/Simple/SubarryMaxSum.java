@@ -1,5 +1,5 @@
 import java.util.*;
-public class HelloWorld {
+public class SubarryMaxSum {
 
     public static void main(String []args) {
         int arr[] = {4,1,-4,6,2, -1};

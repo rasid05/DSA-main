@@ -1,4 +1,4 @@
-class HelloWorld {
+class Subarray {
     public static void main(String[] args) {
         int arr[] = {1,4,6,4};
         int n = arr.length;

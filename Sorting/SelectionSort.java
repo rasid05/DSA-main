@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class SelectionSort {
     public static void main(String[] args) {
         int a[] = {5, 4, 3, 2, 1};
@@ -18,5 +20,6 @@ class SelectionSort {
         }
 
         System.out.println(Arrays.toString(a));
+
     }
 }

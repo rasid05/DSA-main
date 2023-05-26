@@ -1,5 +1,5 @@
 import java.util.*;
-public class HelloWorld {
+public class TappingRainWater {
 
     public static void main(String[] args) {
         int arr[] = {

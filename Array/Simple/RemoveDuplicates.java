@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class RemoveDuplicates {
   public static int RemoveDuplicates(ArrayList < Integer > arr, int n) {
     // Array is sorted------------
     

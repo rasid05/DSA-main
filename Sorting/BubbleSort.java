@@ -1,5 +1,5 @@
 import java.util.*;
-class HelloWorld {
+class BubbleSort {
     public static void main(String[] args) {
         // int a[] = {5,4,3,2,1};
         int a[] = {1, 2, 3, 4, 5};

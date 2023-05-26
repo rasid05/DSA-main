@@ -1,5 +1,5 @@
 import java.util.*;
-public class HelloWorld {
+public class DiagonalSum {
 
     public static void main(String[] args) {
       // It is only possible for a N*N matrix

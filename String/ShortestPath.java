@@ -1,8 +1,8 @@
 public class ShortestPath {
     public static void main(String[] args) {
         // System.out.println("Hello, World!");
-        int x = 0, y = 0;
         String s = "WNEENESENNN";
+        int x = 0, y = 0;
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == 'W') {
                 x--;

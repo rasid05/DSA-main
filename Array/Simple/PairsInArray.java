@@ -1,4 +1,4 @@
-class HelloWorld {
+class PairsInArray {
     public static void main(String[] args) {
         int arr[] = {1,4,6,7,8,44,55,67,89,234,678};
         for(int i = 0;i<arr.length;i++){
