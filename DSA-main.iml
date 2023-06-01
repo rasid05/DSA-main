@@ -6,6 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sorting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BitManipulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DNC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
