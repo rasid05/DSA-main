@@ -5,6 +5,14 @@
         map.put("First",10);
         System.out.println(map);
 
+
+        // Get value from map
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+        for(int j =0;j<n;j++){
+	   int value = map.getOrDefault(arr[i], 0);
+           map.put(arr[j], value + 1);
+	}
+
         // Sort using key
         TreeMap<String, Integer> tmap = new TreeMap<>();
         tmap.put("Second",20);
